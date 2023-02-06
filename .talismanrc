@@ -1,0 +1,15 @@
+fileignoreconfig:
+- filename: .talisman
+  checksum: e614d918dd6deae66060752715b256540ce5dfb50150086c57861f2cb91544b3
+- filename: public/index.html
+  checksum: 9f94576496fa1ef46191431655a55449f54319ab425ce00bb063d8be034e7b2c
+- filename: package-lock.json
+  checksum: 2e841b012f36e7262a33669bfc6f91208a9d3c4d3737d4144726f5477dccf068
+- filename: src/service/login-service.js
+  checksum: d4a97256f91f02763827e7cc48223e3078a90699dc66948883d0c150ce6edef6
+- filename: src/service/signup-service.js
+  checksum: a824697652acce66cc39eea4b9e6d61b8583c9224b170f6a1a030216a8cf8fc7
+- filename: src/login/login.js
+  checksum: 746a64cad3c982a7ad62edf49c4d675af527cac8a5b09a7ce672b029d8efd31d
+- filename: src/signup/signup.js
+  checksum: 44bdc9d8c5269a92fbcf99c826d72eab1d65b241a1a31ba9f537942fff3a57e4
